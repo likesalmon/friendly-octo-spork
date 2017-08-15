@@ -8,5 +8,11 @@
   },
   "author": "",
   "license": "ISC",
-  "files": ["app/index.js", "utils"]
+  "files": [
+    "app/index.js",
+    "utils"
+  ],
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
 }
